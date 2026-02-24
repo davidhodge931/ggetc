@@ -3,3 +3,4 @@
 ^\.vscode$
 ^ggetc\.Rproj$
 ^README\.Rmd$
+^\.Rproj\.user$
